@@ -1,22 +1,23 @@
 ---
 layout: default
 title: Home
+lang: en
 ---
 
-Pracowania Systemów Informacyjnych
-==================================
+Information System Laboratory
+=============================
 
 {% lorem_ipsum %}
 
-Obszary badawcze
-----------------
+Research areas
+--------------
 
-* statystyczne tłumaczenie maszynowe
-* neuronowe tłumaczenie maszynowe
-* automatyczna korekta błędów gramatycznych
+* statistical machine translation
+* neural machine translation
+* automated grammatical error correction
 * ...
 
-Afiliacja
----------
+Afiliation
+----------
 
 {% lorem_ipsum 40 %}

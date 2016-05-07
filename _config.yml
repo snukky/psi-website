@@ -1,16 +1,12 @@
 # Site settings
 title: PSI
 email: romang@amu.edu.pl
-description: >
-  Pracownia Systemów Informacyjnych
+description:
+  en: Information Systems Laboratory
+  pl: Pracownia Systemów Informacyjnych
 baseurl: ""
 url: "http://psi.wmi.amu.edu.pl"
 version: 0.0.1
-
-# Custom variables
-psi:
-  short_name: PSI
-  full_name: Pracownia Systemów Informacyjnych
 
 # Build settings
 markdown: kramdown
