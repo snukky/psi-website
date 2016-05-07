@@ -4,11 +4,12 @@ email: romang@amu.edu.pl
 description: >
   Pracownia Systemów Informacyjnych
 baseurl: ""
-url: "http://psi.wmi.amu.eu.pl"
+url: "http://psi.wmi.amu.edu.pl"
 version: 0.0.1
 
-twitter_username: jekyllrb
-github_username:  jekyll
+gems:
+  - jekyll-assets
+  - jekyll-polyglot
 
 # Build settings
 markdown: kramdown
@@ -20,7 +21,7 @@ psi:
 
 # Jekyll-assets settings
 assets:
-  compress: 
-    css:  sass 
+  compress:
+    css:  sass
     js:   uglifier
 
