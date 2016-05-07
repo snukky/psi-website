@@ -10,7 +10,6 @@ version: 0.0.1
 twitter_username: jekyllrb
 github_username:  jekyll
 
-
 # Build settings
 markdown: kramdown
 
@@ -18,3 +17,10 @@ markdown: kramdown
 psi:
   short_name: PSI
   full_name: Pracownia Systemów Informacyjnych
+
+# Jekyll-assets settings
+assets:
+  compress: 
+    css:  sass 
+    js:   uglifier
+
