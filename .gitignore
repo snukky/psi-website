@@ -1,0 +1,9 @@
+# Temp files
+*~
+*.swp
+*.swo
+
+# Jekyll
+_site
+.sass-cache
+.jekyll-metadata
