@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Start
+title: Home
 ---
 
 Pracowania Systemów Informacyjnych
