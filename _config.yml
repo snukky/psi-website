@@ -7,17 +7,19 @@ baseurl: ""
 url: "http://psi.wmi.amu.edu.pl"
 version: 0.0.1
 
-gems:
-  - jekyll-assets
-  - jekyll-polyglot
-
-# Build settings
-markdown: kramdown
-
-# Custom settings
+# Custom variables
 psi:
   short_name: PSI
   full_name: Pracownia Systemów Informacyjnych
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-assets
+  - jekyll-polyglot
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
 # Jekyll-assets settings
 assets:
@@ -25,3 +27,11 @@ assets:
     css:  sass
     js:   uglifier
 
+# Jekyll-polyglot settings
+languages:
+  - en
+  - pl
+default_lang: en
+exclude_from_localization:
+  - assets
+parallel_localization: true
