@@ -1,0 +1,101 @@
+- id: jassem
+  name: Krzysztof Jassem
+  title:
+    en: PhD, prof. AMU
+    pl: prof. UAM, dr hab.
+  description:
+    en: >
+      He conducts research on tools for Natural Language Processing. His other
+      field of interest is didactics of computer science. He is a co-founder
+      and a board member of an IT company, Poleng, which is a part of a PWN
+      Group, a major Polish publishing scientific enterprise. He has headed a
+      number of research and development projects, which required co-operation
+      of academic and commercial units.
+    pl: >
+      Prowadzi badania w zakresie narzędzi przetwarzania języka naturalnego.
+      Zajmuje się również dydaktyką informatyki. Jest współzałożycielem i
+      członkiem zarządu firmy informatycznej Poleng, która wchodzi w skład
+      Grupy PWN, wiodącego wydawnictwa naukowego w Polsce. Prowadził wiele
+      projektów badawczo-rozwojowych, które wymagały współpracy jednostek
+      uczelnianych i gospodarczych.
+  email: jassem@amu.edu.pl
+  github:
+  www:
+
+- id: filipg
+  name: Filip Graliński
+  title:
+    en: PhD
+    pl: dr
+  description:
+    en:
+    pl:
+  email: filipg@amu.edu.pl
+  github: filipg
+  www: http://www.staff.amu.edu.pl/~filipg/
+
+- id: junczys
+  name: Marcin Junczys-Dowmunt
+  title:
+    en: PhD
+    pl: dr
+  description:
+    en:
+    pl:
+  email: junczys@amu.edu.pl
+  github: emjotde
+  www: http://emjotde.github.io/
+
+- id: rjawor
+  name: Rafał Jaworski
+  title:
+    en: PhD
+    pl: dr
+  description:
+    en: >
+      He is interested in any kind of natural language processing, though his
+      main areas of interest include computer-assisted translation and machine
+      learning techniques in text classification. He keeps an open mind towards
+      interdisciplinary research, especially with linguists. This open mind
+      already resulted in cooperation with University in Zagreb, as well as
+      with Institute of Linguistcs and Chair of Oriental Studies (both AMU).
+    pl:
+  email: rjawor@amu.edu.pl
+  github: rjawor
+  www: http://www.staff.amu.edu.pl/~rjawor/
+
+- id: romang
+  name: Roman Grundkiewicz
+  title:
+    en: PhD candidate
+    pl: doktorant
+  description:
+    en: >
+      He is interested mainly in natural language processing and text mining.
+      Currenlty, he is finishing his PhD thesis on automated grammatical and
+      usage error correction for English-as-a-second-language learners. He is a
+      principle of NCN research grant on automated text correction for Polish.
+      In his research, he focuses on the application of a variety of machine
+      learning methods.
+    pl: >
+      Zajmuje się przetwarzaniem języka naturalnego i ekstrakcją informacji z tekstu.
+      Obecnie przygotowuje pracę doktorską na temat automatycznej korekty
+      błędów gramatycznych w tekstach pisanych przez osoby uczące się języka
+      angielskiego. Jest też kierownikiem grantu NCN, dotyczącego korekty
+      błędów językowych dla języka polskiego.W badaniach wykorzystuje szeroki
+      wahlarz metod uczenia maszynowego.
+  email: romang@amu.edu.pl
+  www: http://www.staff.amu.edu.pl/~romang/
+
+- id: tdwojak
+  name: Tomasz Dwojak
+  title:
+    en: PhD candidate
+    pl: doktorant
+  description:
+    en:
+    pl:
+  email: t.dwojak@amu.edu.pl
+  github: tomekd
+  www:
+
