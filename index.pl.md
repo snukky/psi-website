@@ -1,13 +1,16 @@
 ---
 layout: default
-title: Home
+title: O stronie
+permalink: /
 lang: pl
 ---
 
 Pracowania Systemów Informacyjnych
 ==================================
 
-{% lorem_ipsum %}
+Grupa naukowa zajmująca się przetwarzaniem języka naturalnego i lingwistyką
+komputerową, zlokalizowana na Wydziale Matematyki i Informatyki Uniwersytetu
+Adama Mickiewicza w Poznaniu.
 
 Obszary badawcze
 ----------------
@@ -18,6 +21,9 @@ Obszary badawcze
 * ...
 
 Afiliacja
----------
+-----------
 
-{% lorem_ipsum 40 %}
+[Wydział Matematyki i Informatyki](https://www.wmi.amu.edu.pl/)  
+[Uniwersytet im. Adama Mickiewicza](http://amu.edu.pl/)  
+ul. Umultowska 87
+61-614 Poznań, Poland
