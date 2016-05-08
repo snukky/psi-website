@@ -1,4 +1,9 @@
 
+all: build
+
+build:
+	jekyll build
+
 run:
 	jekyll server --watch
 
