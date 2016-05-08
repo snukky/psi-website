@@ -26,14 +26,18 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
-      <p>
-        {% for tongue in site.languages %}
-        <a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %}" href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}">{{ tongue }}</a> |
-          {% endfor %}
-      </p>
 
+    <p class="sidebar-lang">
+      {% for tongue in site.languages %}
+      <a class="{% if tongue == site.active_lang %}active=lang{% endif %}"
+         href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}">
+          {{ tongue | upcase }}
+      </a> |
+      {% endfor %}
+    </p>
+
+    <span class="sidebar-nav-item"v{{ site.version }}</span>
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
