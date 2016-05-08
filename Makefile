@@ -8,6 +8,6 @@ run:
 	jekyll server --watch
 
 clean:
-	rm -f *~
+	rm -rf _site .sass-cache .asset-cache
 
 .PHONY: clean run

@@ -1,0 +1,31 @@
+.member {
+  clear: both;
+  padding-bottom: 1em;
+
+  .member-photo {
+    background-image: url("{% asset_path silhouette.jpg %}");
+    background-size: cover;
+    border-radius: 50%;
+    display: block;
+    height: 7em;
+    width: 7em;
+    margin-bottom: 0.5em;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+  }
+  .member-name {
+    font-weight: bold;
+  }
+}
+.member:nth-child(even) {
+  .member-photo {
+    float: left;
+    margin-right: 1em;
+  }
+}
+.member:nth-child(odd) {
+  .member-photo {
+    float: right;
+    margin-left: 1em;
+  }
+}

@@ -22,6 +22,10 @@ assets:
   compress:
     css:  sass
     js:   uglifier
+  sources:
+    - _assets/css
+    - _assets/img
+    - _assets/js
 
 # Jekyll-polyglot settings
 languages:
