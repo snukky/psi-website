@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Team
+title: Zespół
 permalink: /team/
-lang: en
+lang: pl
 ---
 
 {% for member in site.data.members %}
 <p>
-  <span class="member-name">{{ member.name }}, {{ member.title[page.lang] }}.</span>
+  <span class="member-name">{{ member.title[page.lang] }} {{ member.name }}.</span>
   {{ member.description[page.lang] }}
 </p>
 {% endfor %}
