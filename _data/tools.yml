@@ -1,0 +1,19 @@
+- name: PSI-Toolkit
+  description:
+    en: a set of tools for automatic natural language processing of multiple languages
+    pl: zestaw narzędzi do automatycznego przetwarzania języka naturalnego dla różnych języków
+  www: http://psi-toolkit.amu.edu.pl
+  github: https://github.com/filipg/psi-toolkit
+
+- name: SyMGIZA++
+  description:
+    en: a tool for parallel statistical computation of symmetrized word alignment models
+    pl: narzędzie do budowania symetrycznych modeli dopasowań wyrazów
+  github: https://github.com/emjotde/symgiza-pp
+
+- name: WikEd
+  description:
+    en: a large corpus of corrective Wikipedia edits
+    pl: duży korpus edycji pozyskanych z Wikipedii
+  www: http://romang.home.amu.edu.pl/wiked/wiked.html
+  github: https://github.com/snukky/wikiedits
