@@ -25,6 +25,7 @@ assets:
   sources:
     - _assets/css
     - _assets/img
+    - _assets/img/photos
     - _assets/js
 
 # Jekyll-polyglot settings
