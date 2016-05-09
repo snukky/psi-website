@@ -21,6 +21,7 @@ Wystąpienia
     <div class="box">
       <div class="title">{{ seminar.title }}</div>
       <div class="author">{{ seminar.author }}</div>
+      <span class="institute">{{ seminar.institute }}</span>
       <div class="abstract">{{ seminar.abstract }}</div>
     </div>
   </div>
