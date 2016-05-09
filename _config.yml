@@ -8,6 +8,11 @@ baseurl: ""
 url: "http://psi.wmi.amu.edu.pl"
 version: 0.0.1
 
+t:
+  home:
+    en: Home
+    pl: O grupie
+
 # Build settings
 markdown: kramdown
 gems:

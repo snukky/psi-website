@@ -16,12 +16,17 @@ Research areas
 
 * statistical machine translation
 * neural machine translation
+* parallel corpora
+* natural language processing toolkits
+* semantic analysis
+* temporal text classification
 * automated grammatical error correction
-* ...
+* and others ...
 
 Affiliation
 -----------
 
+Pracowania Systemów Informacyjnych  
 [Faculty of Mathematics and Computer Science](https://www.wmi.amu.edu.pl/en/)  
 [Adam Mickiewicz University](http://international.amu.edu.pl/)  
 Umultowska 87 Street
