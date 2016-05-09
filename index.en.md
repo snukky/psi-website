@@ -26,7 +26,7 @@ Research areas
 Affiliation
 -----------
 
-Pracowania Systemów Informacyjnych  
+Information Systems Laboratory  
 [Faculty of Mathematics and Computer Science](https://www.wmi.amu.edu.pl/en/)  
 [Adam Mickiewicz University](http://international.amu.edu.pl/)  
 Umultowska 87 Street
