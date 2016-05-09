@@ -40,7 +40,14 @@
     en: PhD
     pl: dr
   description:
-    en:
+    en: >
+      Computational Linguist, Machine Translation Researcher. Statistical
+      machine translation in general, Polish-English/English-Polish machine
+      translation in particular. Statistical machine translation of patents.
+      Optimization of machine translation tools in commercial settings, speed
+      improvement, space optimization. Development and implementation of
+      natural language processing tools in commercial and open source settings.
+      Consultant for language technology related topics.
     pl:
   email: junczys@amu.edu.pl
   github: emjotde
