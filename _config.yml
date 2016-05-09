@@ -13,6 +13,7 @@ markdown: kramdown
 gems:
   - jekyll-assets
   - jekyll-polyglot
+  - jekyll/scholar
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -36,3 +37,12 @@ default_lang: en
 exclude_from_localization:
   - assets
 parallel_localization: true
+
+# Jekyll-schollar settings
+scholar:
+  sort_by: author
+  order: ascending
+  group_by: year
+  group_order: descending
+  source: ./_bibliography
+  bibliography: bibliography.bib
