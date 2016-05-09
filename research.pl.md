@@ -5,4 +5,6 @@ permalink: /research/
 lang: pl
 ---
 
-Lista publikacji członków Pracowni Systemów Informacyjnych.
+Lista publikacji pracowników Pracowni Systemów Informacyjnych.
+
+{% bibliography %}
