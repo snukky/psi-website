@@ -27,7 +27,7 @@
 
 - date: 12.04.2016
   author: Marcin Sikora
-  institute: Samsung R&D Institute Poland
+  institute: Samsung R&D Institute
   title: An introduction to automatic speech recognition
 
 - date: 19.04.2016
@@ -41,7 +41,17 @@
 
 - date: 10.05.2016
   author: Łukasz Borchmann
-  title:
+  institute: Institute of Linguistics, AMU
+  title: Analiza wydźwięku względem zagadnienia z tekstu
+  abstract: >
+    Przy niektórych zastosowaniach badanie wydźwięku (sentiment analysis) na
+    poziomie dokumentu jest niewystarczające, ponieważ interesuje nas stosunek
+    autora do konkretnego zagadnienia poruszanego w tekście (np. firmy lub
+    cechy produktu). Gdy dokument zawiera treści związane z innymi tematami
+    (np. odniesienia do podobnych marek lub ustępy tekstu dotyczące zupełnie
+    niepowiązanych kwestii) zasadne jest zastosowanie rozwiązań, których
+    przegląd będzie przedmiotem tej prezentacji, wraz z odniesieniami do
+    eksperymentów na bazie ręcznie anotowanych tekstów w języku polskim.
 
 - date: 17.05.2016
   author: Filip Graliński
