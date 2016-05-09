@@ -13,4 +13,16 @@ tematyką NLP i ML.
 Wystąpienia
 -----------
 
-
+<div class="seminars">
+  {% assign seminars = site.data.seminars | sort: 'date' %}
+  {% for seminar in site.data.seminars %}
+  <div class="seminar">
+    <div class="date">{{ seminar.date }}</div>
+    <div class="box">
+      <div class="title">{{ seminar.title }}</div>
+      <div class="author">{{ seminar.author }}</div>
+      <div class="abstract">{{ seminar.abstract }}</div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
