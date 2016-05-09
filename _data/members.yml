@@ -93,7 +93,12 @@
     en: PhD candidate
     pl: mgr
   description:
-    en:
+    en: >
+      His scientific interests are focused on machine translation, especially
+      phrased-based and neural-based approaches. His last work is concerned on
+      applying a neural network component into the phrased-based machine
+      translation models. Together with M. Junczys-Dowmunt, he won the WMT
+      2016 shared tasks for best Russian-English translation system.
     pl:
   email: t.dwojak@amu.edu.pl
   github: tomekd
