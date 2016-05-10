@@ -5,7 +5,7 @@ description:
   en: Information Systems Laboratory
   pl: Pracownia Systemów Informacyjnych
 baseurl: ""
-url: "http://psi.wmi.amu.edu.pl"
+url: "https://psi.wmi.amu.edu.pl"
 version: 0.0.1
 
 t:
@@ -22,6 +22,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Makefile
+  - psi-website.zip
 
 # Jekyll-assets settings
 assets:
