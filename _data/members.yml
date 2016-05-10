@@ -33,6 +33,7 @@
   email: filipg@amu.edu.pl
   github: filipg
   www: http://www.staff.amu.edu.pl/~filipg/
+  active: false
 
 - id: junczys
   name: Marcin Junczys-Dowmunt
