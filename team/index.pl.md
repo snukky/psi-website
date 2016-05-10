@@ -3,6 +3,7 @@ layout: page
 title: Zespół
 permalink: /team/
 lang: pl
+sidebar: 1
 ---
 
 {% for member in site.data.members %}

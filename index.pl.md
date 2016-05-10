@@ -3,6 +3,7 @@ layout: default
 title: O stronie
 permalink: /
 lang: pl
+sidebar: 0
 ---
 
 Pracowania Systemów Informacyjnych

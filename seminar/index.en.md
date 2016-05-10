@@ -3,6 +3,7 @@ layout: page
 title: Seminar
 permalink: /seminar/
 lang: en
+sidebar: 2
 ---
 
 Our group organizes seminar on natural language processing. It takes place on

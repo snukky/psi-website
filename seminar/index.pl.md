@@ -3,6 +3,7 @@ layout: page
 title: Seminarium
 permalink: /seminar/
 lang: pl
+sidebar: 2
 ---
 
 Nasza grupa organizuje cotygodniowe seminarium na temat przetwarzania języka

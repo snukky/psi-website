@@ -3,6 +3,7 @@ layout: default
 title: Home
 permalink: /
 lang: en
+sidebar: 0
 ---
 
 Information System Laboratory
