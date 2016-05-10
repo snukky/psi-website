@@ -1,10 +1,14 @@
-# Temp files
-*~
-*.swp
-*.swo
-
 # Jekyll
 _site
 .sass-cache
 .jekyll-metadata
 .asset-cache
+
+# Deploy files
+psi-website.zip
+
+# Temp files
+*~
+*.swp
+*.swo
+
