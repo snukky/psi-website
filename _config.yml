@@ -23,6 +23,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Makefile
+  - README.md
   - psi-website.zip
 
 # Jekyll-assets settings
