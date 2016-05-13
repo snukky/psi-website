@@ -6,8 +6,8 @@ lang: pl
 sidebar: 0
 ---
 
-Pracowania Systemów Informacyjnych
-==================================
+Pracownia Systemów Informacyjnych
+=================================
 
 Grupa naukowa zajmująca się przetwarzaniem języka naturalnego i lingwistyką
 komputerową, zlokalizowana na Wydziale Matematyki i Informatyki Uniwersytetu
