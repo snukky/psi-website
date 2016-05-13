@@ -34,7 +34,13 @@
       interested in machine translation and natural language understanding. A
       Linux and Haskell hacker. Wrote a book on urban legends and found Hilda
       Stockenius.
-    pl:
+    pl: >
+      Specjalizuje się w dziedzinie wyszukiwania informacji i przetwarzania
+      języka naturalnego w kontekście tekstów historycznych (wliczając
+      zaszumione teksty po OCR). Interesuje się również tłumaczeniem
+      automatycznym i ogólnie pojętym rozumieniem języka naturalnego. Entuzjasta
+      Linuksa i Haskella. Autor książki o legendach miejskich oraz odkrywca
+      Hildy Stockenius.
   email: filipg@amu.edu.pl
   github: filipg
   www: http://www.staff.amu.edu.pl/~filipg/
@@ -53,7 +59,14 @@
       improvement, space optimization. Development and implementation of
       natural language processing tools in commercial and open source settings.
       Consultant for language technology related topics.
-    pl:
+    pl: >
+      Badacz lingwistyki komputerowej i tłumaczenia maszynowego. Zajmuje się
+      statystycznym tłumaczeniem maszynowym, w szczególności systemami
+      polsko-angielskimi/angielsko-polskimi i tłumaczeniem patentów.
+      Optymalizacja systemów i narzędzi tłumaczenia automatycznego w
+      środowiskach komercyjnych, rozwój i implementacja narzędzi do
+      przetwarzania języka naturalnego, zarówno komercyjnych, jak i
+      otwartoźródłowych. Konsultant technologii językowych.
   email: junczys@amu.edu.pl
   github: emjotde
   www: http://emjotde.github.io/
@@ -71,7 +84,14 @@
       interdisciplinary research, especially with linguists. This open mind
       already resulted in cooperation with University in Zagreb, as well as
       with Institute of Linguistcs and Chair of Oriental Studies (both AMU).
-    pl:
+    pl: >
+      Jego zainteresowania naukowe skupiają się wokół przetwarzania języka
+      naturalnego, a jego głównym obszarem badawczym jest tłumaczenie
+      wspomagane komputerowo oraz klasyfikacja tekstów z wykorzystaniem metod
+      uczenia maszynowego. Szczególnie ceni sobie badania interdyscyplinarne, a
+      otwarty umysł na tym polu dotychczas zaowocował we współpracy z
+      Uniwersytetem w Zagrzebiu oraz Instytutem Językoznawstwa UAM i Katedrą
+      Orientalistyki UAM.
   email: rjawor@amu.edu.pl
   github: rjawor
   www: http://www.staff.amu.edu.pl/~rjawor/
@@ -111,7 +131,12 @@
       applying a neural network component into the phrased-based machine
       translation models. Together with M. Junczys-Dowmunt, he won the WMT
       2016 shared tasks for best Russian-English translation system.
-    pl:
+    pl: >
+      Jego zainteresowania naukowe skupiają się wokół statystycznego
+      tłumaczenia maszynowego, w szczególności systemów frazowych i
+      neuronowych. Jego ostatnie prace badawcze dotyczą wykorzystania sieci
+      neuronowych w modelach frazowych. Jest współautorem rosyjsko-angielskiego
+      systemu tłumaczenia, który wygrał WMT 2016 Shared Task.
   email: t.dwojak@amu.edu.pl
   github: tomekd
   www:
