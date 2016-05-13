@@ -55,4 +55,23 @@
 
 - date: 17.05.2016
   author: Filip Graliński
+  title: > 
+    Gonito.net - open platform for research competition, cooperation and
+    reproducibility
+  abstract: >
+    I am going to presents the current status of Gonito.net — an open source,
+    web-based platform for hosting challenges for researchers in the field of
+    natural language processing. Researchers are encouraged to compete in
+    well-defined tasks by developing tools and running them on provided test
+    data. The researcher who submits the best results becomes the winner of the
+    challenge. Apart from the competition, Gonito.net also enables the
+    collaboration among researchers by means of source code sharing mechanisms.
+    Gonito.net itself is fully open source, i.e. its source is available for
+    download and compilation, as well as a running instance of the system is
+    available at gonito.net.  The key design feature of Gonito.net is using Git
+    for managing solutions of the problems submitted by competitors. This
+    allows for research transparency and reproducibility.
+
+- date: 24.05.2016
+  author: Paweł Skórzewski
   title:
