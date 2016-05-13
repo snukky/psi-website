@@ -28,12 +28,16 @@
     en: PhD
     pl: dr
   description:
-    en:
+    en: >
+      His main area of expertise is information retrieval and natural language
+      processing for historical texts (including noisy OCR-ed texts). Also
+      interested in machine translation and natural language understanding. A
+      Linux and Haskell hacker. Wrote a book on urban legends and found Hilda
+      Stockenius.
     pl:
   email: filipg@amu.edu.pl
   github: filipg
   www: http://www.staff.amu.edu.pl/~filipg/
-  active: false
 
 - id: junczys
   name: Marcin Junczys-Dowmunt
