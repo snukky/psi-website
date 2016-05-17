@@ -1,3 +1,13 @@
+# Supported keys:
+# * id
+# * active
+# * name
+# * title (en, pl)
+# * description (en, pl)
+# * email
+# * github
+# * www
+#
 - id: jassem
   name: Krzysztof Jassem
   title:
@@ -70,6 +80,7 @@
   email: junczys@amu.edu.pl
   github: emjotde
   www: http://emjotde.github.io/
+  photo: false
 
 - id: rjawor
   name: Rafał Jaworski
@@ -139,5 +150,31 @@
       systemu tłumaczenia, który wygrał WMT 2016 Shared Task.
   email: t.dwojak@amu.edu.pl
   github: tomekd
+  www:
+
+- id: pms
+  name: Paweł Skórzewski
+  active: false
+  title:
+    en: PhD
+    pl: dr
+  description:
+    en: >
+      PhD in computer science and MS in mathematics. His scientific interests
+      cover the fields of computational linguistics, artificial intelligence
+      and natural language processing. He conducted research on parsing of free
+      word order languages with probabilistic grammars and its applications in
+      machine translation systems. His research topics include also finite
+      state machines and dialog management.
+    pl: >
+      Doktor informatyki i magister matematyki. Jego zainteresowania naukowe
+      skupiają się wokół lingwistyki komputerowej, sztucznej inteligencji i
+      przetwarzania języka naturalnego. Prowadził badania nad analizą
+      składniową języków o szyku swobodnym z wykorzystaniem gramatyk
+      probabilistycznych i jej zastosowaniami w systemach tłumaczenia
+      automatycznego. Zajmuje się również automatami skończonymi i systemami
+      dialogowymi.
+  email: pms@amu.edu.pl
+  github:
   www:
 
