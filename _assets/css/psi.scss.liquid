@@ -22,21 +22,14 @@
     font-weight: bold;
   }
 
-  .photo-jassem {
-    background-image: url("{% asset_path jassem.jpg %}");
-  }
-  .photo-filipg {
-    background-image: url("{% asset_path filipg.jpg %}");
-  }
-  .photo-rjawor {
-    background-image: url("{% asset_path rjawor.jpg %}");
-  }
-  .photo-tdwojak {
-    background-image: url("{% asset_path tdwojak.jpg %}");
-  }
-  .photo-romang {
-    background-image: url("{% asset_path romang.jpg %}");
-  }
+  {% for member in site.data.members %}
+    {% if member.photo.nil? or member.photo != false %}
+    {% assign img = member.id | append:'.jpg' %}
+    .photo-{{ member.id }} {
+      background-image: url("{% asset_path {{img}} %}");
+    }
+    {% endif %}
+  {% endfor %}
 }
 .member:nth-child(even) {
   .member-photo {
@@ -47,7 +40,7 @@
 .member:nth-child(odd) {
   .member-photo {
     float: right;
-    margin-left: 1rem;
+    margin-left: .2rem;
   }
 }
 
