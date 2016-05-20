@@ -6,3 +6,5 @@ gem "jekyll-scholar"
 
 gem "uglifier"
 gem "sass"
+
+gem "trollop"
