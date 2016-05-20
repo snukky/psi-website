@@ -76,6 +76,11 @@ def main()
   #bib.extend_initials!
 
   bib.each do |entry|
+    if entry.author.nil?
+      bib.delete(entry)
+      next
+    end
+
     expand_acronyms(entry)
     check_keys_existance(entry) if opts[:url]
     escape_diacritics(entry) if opts[:diacs]
@@ -86,13 +91,21 @@ def main()
   warn "Number of entries: #{bib.size}"
   warn "Duplicates: #{bib.duplicates?}"
 
+  if opts[:uniq]
+    bib.uniq!
+    warn "Duplicates removed"
+  end
+
+
   bib.sort!{ |a,b| a.author <=> b.author }
   bib.each{ |entry| puts entry }
 end
 
 
 def normalize_bibtex_key(bib, options={})
-  author_name = bib.author.first.downcase.gsub(/\\.{|}/, '')
+  return if bib.author.empty?
+
+  author_name = bib.authors.first.downcase.gsub(/\\.{|}/, '')
     .split(/[^a-z]+/).first
   first_word = bib.title.downcase.gsub(/\\.{|}/, '')
     .gsub(/[{}\-]/, '').split(/[^a-z]+/)
@@ -135,10 +148,11 @@ def parse_args()
       "Usage: #{__FILE__} [options] file.bib\n\n"\
       "Options:"
     opt :keys, "Normalize BibTeX keys"
-    opt :names, "Protect named entities"
+    #opt :names, "Protect named entities"
     opt :diacs, "Escape diacritics"
-    opt :url, "Check for URL keyword"
-    opt :replace, "Replace the input BibTeX file"
+    opt :pdf, "Check for URL keyword"
+    opt :uniq, "Remove duplicates"
+    #opt :inplace, "Replace the input BibTeX file"
   end
   return opts, ARGV.last
 end
