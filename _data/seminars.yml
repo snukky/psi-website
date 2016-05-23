@@ -6,6 +6,7 @@
 # * abstract
 # * institute
 # * files
+# * info
 #
 
 - date: 15.03.2016
@@ -55,7 +56,7 @@
 
 - date: 17.05.2016
   author: Filip Graliński
-  title: > 
+  title: >
     Gonito.net - open platform for research competition, cooperation and
     reproducibility
   abstract: >
@@ -74,4 +75,9 @@
 
 - date: 24.05.2016
   author: Paweł Skórzewski
-  title:
+  title: Zastosowanie sieci neuronowych w tłumaczeniu automatycznym i normalizacji tekstu
+
+- date: 31.05.2016
+  author: Patryk Żywica
+  title: Miary podobieństwa przedziałowych zbiorów rozmytych w klasyfikacji danych niepewnych. Zastosowania w diagnostyce guzów jajnika
+  abstract: Publiczna obrona rozprawy doktorskiej, sala A1-33/34, godzina 13:00.
