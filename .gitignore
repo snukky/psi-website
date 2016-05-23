@@ -6,6 +6,7 @@ _site
 
 # Deploy files
 psi-website.zip
+_bibliography/bibliography.bib
 
 # Temp files
 *~
