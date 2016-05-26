@@ -1,13 +1,9 @@
 ---
-layout: default
-title: O stronie
+layout: page
+title: Pracownia Systemów Informacyjnych
 permalink: /
 lang: pl
-sidebar: 0
 ---
-
-Pracownia Systemów Informacyjnych
-=================================
 
 Grupa naukowa zajmująca się przetwarzaniem języka naturalnego i lingwistyką
 komputerową, zlokalizowana na Wydziale Matematyki i Informatyki Uniwersytetu

@@ -1,13 +1,9 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Information Systems Laboratory
 permalink: /
 lang: en
-sidebar: 0
 ---
-
-Information System Laboratory
-=============================
 
 A research group focused on natural language processing and computational linguistics.
 The group is located on the Faculty of Mathematics and Computer Science at Adam Mickiewicz University in Poznań, Poland.
