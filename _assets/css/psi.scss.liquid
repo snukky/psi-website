@@ -1,3 +1,8 @@
+.sidebar-nav-subitem {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  padding-left: 1rem;
+}
 .sidebar-lang {
   .active {
     font-weight: bold;
@@ -31,13 +36,13 @@
     {% endif %}
   {% endfor %}
 }
-.member:nth-child(even) {
+.member:nth-child(odd) {
   .member-photo {
     float: left;
     margin-right: 1rem;
   }
 }
-.member:nth-child(odd) {
+.member:nth-child(even) {
   .member-photo {
     float: right;
     margin-left: .2rem;
