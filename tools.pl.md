@@ -3,7 +3,7 @@ layout: page
 title: Zasoby
 permalink: /tools/
 lang: pl
-sidebar: 4
+sidebar: 5
 ---
 
 Lista narzędzi i zasobów stworzonych przez członków Pracowni.

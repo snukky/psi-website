@@ -3,7 +3,7 @@ layout: page
 title: Tools
 permalink: /tools/
 lang: en
-sidebar: 4
+sidebar: 5
 ---
 
 A list of tools and resources developed by members of the PSI research group.
