@@ -1,6 +1,4 @@
-MEMBER_IDS = $(shell cat _data/members.yml | grep "^. id: " | sed -r 's/.*: ([a-z]+)/\1/' | tr '\n' ' ')
-MEMBER_BIBS = $(addsuffix .bib, $(addprefix _bibliography/, $(MEMBER_IDS)))
-
+MEMBER_BIBS := $(wildcard _bibliography/members/*.bib)
 BIB_FILE = _bibliography/bibliography.bib
 
 all: build
