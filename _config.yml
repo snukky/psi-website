@@ -33,6 +33,8 @@ assets:
     js:   uglifier
   sources:
     - _assets/css
+    - _assets/fonts
+    - _assets/fonts/academicons
     - _assets/img
     - _assets/img/photos
     - _assets/js

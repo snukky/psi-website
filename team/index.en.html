@@ -26,15 +26,15 @@ sidebar: 1
     {% if member.email != null %}
       <a href="mailto:{{ member.email }}">{% icon fa-at fa-lg %}</a>
     {% endif %}
+    {% if member.googlescholar != null %}
+      <a href="https://scholar.google.com/citations?user={{ member.googlescholar }}">{% icon ai-google-scholar ai-lg %}</a>
+    {% endif %}
+    {% if member.researchgate != null %}
+      <a href="https://researchgate.net/profile/{{ member.researchgate }}">{% icon ai-researchgate-square ai-lg %}</a>
+    {% endif %}
     {% if member.github != null %}
       <a href="https://github.com/{{ member.github }}">{% icon fa-github fa-lg %}</a>
     {% endif %}
-    <!--{% if member.researchgate != null %}-->
-      <!--<a href="https://researchgate.net/profile/{{ member.researchgate }}">{% icon fa-external-link fa-lg %}</a>-->
-    <!--{% endif %}-->
-    <!--{% if member.googlescholar != null %}-->
-      <!--<a href="https://scholar.google.com/citations?user={{ member.googlescholar }}">{% icon fa-external-link fa-lg %}</a>-->
-    <!--{% endif %}-->
     </span>
   </div>
 </div>
