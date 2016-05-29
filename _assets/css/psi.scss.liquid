@@ -13,7 +13,6 @@
 }
 .member {
   clear: both;
-  padding-bottom: 1rem;
 
   .member-photo {
     background-image: url("{% asset_path silhouette.jpg %}");
@@ -38,6 +37,13 @@
     }
     {% endif %}
   {% endfor %}
+
+  .member-description {
+    padding-bottom: 1.5rem;
+  }
+  .member-links {
+    padding-left: .5rem;
+  }
 }
 .member:nth-child(odd) {
   .member-photo {

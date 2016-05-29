@@ -29,8 +29,7 @@
       projektów badawczo-rozwojowych, które wymagały współpracy jednostek
       uczelnianych i gospodarczych.
   email: jassem@amu.edu.pl
-  github:
-  www:
+  www: https://psi.wmi.amu.edu.pl/team/jassem/
 
 - id: filipg
   name: Filip Graliński
@@ -80,6 +79,8 @@
   email: junczys@amu.edu.pl
   github: emjotde
   www: http://emjotde.github.io/
+  researchgate: Marcin_Junczys-Dowmunt
+  googlescholar: Uh_GH14AAAAJ
   photo: false
 
 - id: rjawor
@@ -104,8 +105,9 @@
       Uniwersytetem w Zagrzebiu oraz Instytutem Językoznawstwa UAM i Katedrą
       Orientalistyki UAM.
   email: rjawor@amu.edu.pl
-  github: rjawor
   www: http://www.staff.amu.edu.pl/~rjawor/
+  github: rjawor
+  googlescholar: KKySEisAAAAJ
 
 - id: romang
   name: Roman Grundkiewicz
@@ -129,6 +131,8 @@
       wahlarz metod uczenia maszynowego.
   email: romang@amu.edu.pl
   www: http://www.staff.amu.edu.pl/~romang/
+  googlescholar: 82Uy1aAAAAAJ
+  researchgate: Roman_Grundkiewicz
 
 - id: tdwojak
   name: Tomasz Dwojak
@@ -148,9 +152,9 @@
       neuronowych. Jego ostatnie prace badawcze dotyczą wykorzystania sieci
       neuronowych w modelach frazowych. Jest współautorem rosyjsko-angielskiego
       systemu tłumaczenia, który wygrał WMT 2016 Shared Task.
+  www:
   email: t.dwojak@amu.edu.pl
   github: tomekd
-  www:
 
 - id: pms
   name: Paweł Skórzewski
@@ -174,7 +178,7 @@
       probabilistycznych i jej zastosowaniami w systemach tłumaczenia
       automatycznego. Zajmuje się również automatami skończonymi i systemami
       dialogowymi.
+  www:
   email: pms@amu.edu.pl
   github:
-  www:
 

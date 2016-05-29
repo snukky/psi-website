@@ -1,0 +1,42 @@
+---
+layout: page
+title: Team
+permalink: /team/
+lang: en
+sidebar: 1
+---
+
+{% for member in site.data.members %}
+{% if member.active == nil or member.active %}
+<div class="member">
+  <span class="member-photo photo-{{ member.id }}" default="{{ asset_path silhouette.jpg }}"></span>
+
+  <div class=member-description>
+    <span class="member-name">{{ member.name }}, {{ member.title[page.lang] }}.</span>
+    {% if member.description[page.lang] != nil %}
+      {{ member.description[page.lang] }}
+    {% else %}
+      {{ member.description[site.default_lang] }}
+    {% endif %}
+
+    <span class="member-links">
+    {% if member.www != null %}
+      <a href="{{ member.www }}">{% icon fa-home fa-lg %}</a>
+    {% endif %}
+    {% if member.email != null %}
+      <a href="mailto:{{ member.email }}">{% icon fa-at fa-lg %}</a>
+    {% endif %}
+    {% if member.github != null %}
+      <a href="https://github.com/{{ member.github }}">{% icon fa-github fa-lg %}</a>
+    {% endif %}
+    <!--{% if member.researchgate != null %}-->
+      <!--<a href="https://researchgate.net/profile/{{ member.researchgate }}">{% icon fa-external-link fa-lg %}</a>-->
+    <!--{% endif %}-->
+    <!--{% if member.googlescholar != null %}-->
+      <!--<a href="https://scholar.google.com/citations?user={{ member.googlescholar }}">{% icon fa-external-link fa-lg %}</a>-->
+    <!--{% endif %}-->
+    </span>
+  </div>
+</div>
+{% endif %}
+{% endfor %}
