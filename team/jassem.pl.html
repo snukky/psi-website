@@ -1,0 +1,17 @@
+---
+layout: page
+title: Krzysztof Jassem
+permalink: /team/jassem/
+lang: pl
+---
+
+{% assign member = site.data.members | where:"id", "jassem" | first %}
+<div class="member">
+  <span class="member-photo photo-{{ member.id }}"></span>
+  <span class="member-name">{{ member.title[page.lang] }} {{ member.name }}.</span>
+  {{ member.description[page.lang] }}
+</div>
+
+<h2>Publikacje</h2>
+
+{% bibliography --file members/jassem.bib %}
