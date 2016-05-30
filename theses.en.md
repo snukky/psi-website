@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Graduate theses
+title: MSc theses
 permalink: /theses/
 lang: en
 sidebar: 4
