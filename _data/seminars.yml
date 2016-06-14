@@ -81,3 +81,18 @@
   author: Patryk Żywica
   title: Miary podobieństwa przedziałowych zbiorów rozmytych w klasyfikacji danych niepewnych. Zastosowania w diagnostyce guzów jajnika
   abstract: Publiczna obrona rozprawy doktorskiej, sala A1-33/34, godzina 13:00.
+
+- date: 07.06.2016
+  author: Filip Graliński, Rafał Jaworski
+  title: Bieżące ciekawostki z NLP
+
+- date: 14.06.2016
+  author: Marcin Junczys-Dowmunt, Roman Grundkiewicz
+  title: The battle for the planet of the APEs
+  abstract: >
+    We are going to present the submission of the AMU team to the Automatic
+    Post-Editing (APE) task of WMT 2016. We explore the application of neural
+    translation models and achieve good results by treating different models as
+    components in a log-linear model, allowing for multiple inputs that are
+    decoded to the same target language. Our submission outperforms the
+    uncorrected baseline on the unseen test set by -3.2% TER and +5.5% BLEU.
