@@ -158,7 +158,6 @@
 
 - id: pms
   name: Paweł Skórzewski
-  active: false
   title:
     en: PhD
     pl: dr
@@ -181,4 +180,3 @@
   www:
   email: pms@amu.edu.pl
   github:
-
