@@ -96,3 +96,8 @@
     components in a log-linear model, allowing for multiple inputs that are
     decoded to the same target language. Our submission outperforms the
     uncorrected baseline on the unseen test set by -3.2% TER and +5.5% BLEU.
+
+- date: 04.10.2016
+  author: Roman Grundkiewicz
+  title: Parę słów i wniosków po ACL 2016 i MTM 2016
+
