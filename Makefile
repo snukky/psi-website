@@ -2,6 +2,7 @@ MEMBER_BIBS := $(wildcard _bibliography/members/*.bib)
 BIB_FILE = _bibliography/bibliography.bib
 
 all: build
+zip: psi-website.zip
 
 psi-website.zip:
 	JEKYLL_ENV=production jekyll build
@@ -21,4 +22,4 @@ $(BIB_FILE): $(MEMBER_BIBS)
 clean:
 	rm -rf _site .sass-cache .asset-cache psi-website.zip $(BIB_FILE)
 
-.PHONY: all build clean run
+.PHONY: all build clean run zip
