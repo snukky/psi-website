@@ -103,8 +103,16 @@
 
 - date: 11.10.2016
   author: Piotr Włodarczyk
-  title: TBA
+  title: Crowdsourcing - presentation
 
 - date: 18.10.2016
   author: Marcin Junczys-Dowmunt
-  title: Marian
+  title: Marian - a C++ gpu-specific parallel automatic differentiation library with operator overloading
+
+- date: 25.10.2016
+  author: Rafał Jaworski
+  title: TBA
+
+- date: 08.11.2016
+  author: Paweł Skórzewski
+  title: TBA
