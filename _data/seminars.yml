@@ -107,7 +107,7 @@
 
 - date: 18.10.2016
   author: Marcin Junczys-Dowmunt
-  title: Marian - a C++ gpu-specific parallel automatic differentiation library with operator overloading
+  title: Is neural machine translation ready for deployment? A case study on 30 translation directions
 
 - date: 25.10.2016
   author: Rafał Jaworski
@@ -115,4 +115,4 @@
 
 - date: 08.11.2016
   author: Paweł Skórzewski
-  title: End-User Development using Natural Language
+  title: End-user development using natural language
