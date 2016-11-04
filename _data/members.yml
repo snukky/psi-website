@@ -180,3 +180,29 @@
   www:
   email: pms@amu.edu.pl
   github:
+
+- id: wlodarczyk
+  name: Wojciech Włodarczyk
+  title:
+    en: PhD Student
+    pl: mgr
+  description:
+    en: >
+      As part of the work he focuses on designing and creating crowdsourcing
+      systems used for acquiring linguistic resources. His scientific interests
+      covers methods of automatic language resources verification, as well as
+      the possibility of using machine learning techniques in order to improve
+      performance of crowdsourcing systems. He is interested in games
+      development, artificial intelligence used in games, and the use of games
+      in scientific research.
+    pl: >
+      W ramach prac skupia się na projektowaniu i tworzeniu systemów
+      crowdsourcingowych, których celem jest pozyskiwanie zasobów
+      lingwistycznych. Tematyka jego badań obejmuje automatyczną weryfikację
+      zasobów językowych oraz zastosowanie technik uczenia maszynowego w celu
+      polepszenia pracy systemów crowdsourcingowych. Interesuje się tworzeniem
+      gier, sztuczną inteligencją w grach, a także wykorzystaniem gier w
+      badaniach naukowych.
+  www:
+  email: wojciech.wlodarczyk@amu.edu.pl
+  github: heolin123
