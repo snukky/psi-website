@@ -4,15 +4,12 @@ BIB_FILE = _bibliography/bibliography.bib
 all: build
 zip: psi-website.zip
 
-psi-website.zip:
+psi-website.zip: $(BIB_FILE)
 	JEKYLL_ENV=production jekyll build
 	zip -r $@ _site
 
 build: $(BIB_FILE)
 	jekyll build
-
-run: _bibliography/bibliography.bib
-	jekyll server --watch
 
 $(BIB_FILE): $(MEMBER_BIBS)
 	cat $^ | grep -vP "^\s*(url|pdf)\s*=\s*" > $@.tmp
