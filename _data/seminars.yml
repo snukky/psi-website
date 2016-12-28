@@ -117,6 +117,12 @@
   author: Paweł Skórzewski
   title: End-user development using natural language
 
+- date: 15.11.2016
+  author: Krzysztof Jassem
+  title: Diachroniczna normalizacja tekstów
+  files: https://prezi.com/aa2gvlvcjooj/diachronic-transliteration
+
 - date: 22.11.2016
   author: Tomasz Dwojak
   title: Multilingual neural machine translation
+
