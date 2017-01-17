@@ -119,10 +119,25 @@
 
 - date: 15.11.2016
   author: Krzysztof Jassem
-  title: Diachroniczna normalizacja tekstów
+  title: <a href="https://prezi.com/aa2gvlvcjooj/diachronic-transliteration">Diachroniczna normalizacja tekstów</a>
   files: https://prezi.com/aa2gvlvcjooj/diachronic-transliteration
 
 - date: 22.11.2016
   author: Tomasz Dwojak
   title: Multilingual neural machine translation
 
+- date: 03.01.2017
+  author: Wojciech Włodarczyk
+  title: Discussion about research plans
+
+- date: 10.01.2017
+  author: Paweł Skórzewski
+  title: "Paper review: <a href=\"https://arxiv.org/pdf/1606.02560.pdf\">Towards End-to-End Learning for Dialog State Tracking and Management (...)</a>"
+
+- date: 17.01.2017
+  author: Roman Grundkiewicz
+  title: "Paper review: <a href=\"https://www.aclweb.org/anthology/P/P16/P16-1159.pdf\">Minimum Risk Training for Neural Machine Translation</a>"
+
+- date: 24.01.2017
+  author: Tomasz Dwojak
+  title: Efficient Algorithms for Hybrid Neural Machine Translation
