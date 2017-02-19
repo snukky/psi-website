@@ -25,6 +25,7 @@ exclude:
   - Makefile
   - README.md
   - psi-website.zip
+  - publish.sh
 
 # Jekyll-assets settings
 assets:
