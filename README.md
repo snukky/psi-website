@@ -34,9 +34,9 @@ Be aware that the commands below have not been yet tested on a fresh system sett
 
 Requirements:
 
-* Ruby
-* Ruby Bundler
-* Jekyll
+* Ruby (ruby-dev)
+* Ruby Bundler (ruby-bundler)
+* Jekyll (jekyll)
 
 Type `bundle install` to install all required gems.
 
