@@ -162,3 +162,13 @@
 - date: 28.03.2017
   author: Piotr Kubiaczyk
   title: QReport – rozproszone algorytmy raportowania
+
+- date: 04.04.2017
+  author: Filip Graliński
+  title: Temporalne modele języka
+  abstract: >
+    Podczas wystąpienia przedstawione zostaną (1) temporalne modele języka
+    uwzględniające nie tylko dyskretny język, lecz także ciągły czas, (2)
+    sposoby ewaluacji temporalnych modeli języka w ramach wyzwania uczenia
+    maszynowego czy zadania typu „shared task”, (3) prace nad korpusem do
+    ewaluacji temporalnych modeli języka polskiego.
