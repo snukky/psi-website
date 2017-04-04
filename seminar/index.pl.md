@@ -18,7 +18,7 @@ Wystąpienia
 <div class="seminars">
   {% for seminar in site.data.seminars reversed %}
   <div class="seminar">
-    <div class="date">{{ seminar.date | date:"%d.%m.%Y r." }}</div>
+    <div class="date">{{ seminar.date | date:"%d.%m.%Y" }}</div>
     <div class="box">
       <div class="title">{{ seminar.title }}</div>
       <div class="author">{{ seminar.author }}</div>
