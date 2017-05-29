@@ -184,3 +184,19 @@
 - date: 23.05.2017
   author: Paweł Skórzewski
   title: PSI-Toolkit – reaktywacja
+  abstract: >
+      Jak użycie Dockera tchnęło nowe życie w PSI-Toolkit i co jeszcze planujemy z tym zrobić
+
+- date: 30.05.2017
+  author: Filip Graliński
+  title: The RetroC challenge. How to guess the publication year of a text?
+
+- date: 06.06.2017
+  author: Wojciech Włodarczyk
+  title: TBA
+
+- date: 13.06.2017
+  author: Paweł Skórzewski
+  title: PSI-Toolkit – rewolucje
+  abstract: >
+      Wzbogacenie PSI-Toolkitu o narzędzia do normalizacji diachronicznej
