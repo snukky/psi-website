@@ -10,4 +10,5 @@ Szablony prezentacji zgodne z <a href="http://siw.amu.edu.pl">systemem identyfik
 
 <ul>
     <li><a href="http://siw.amu.edu.pl/siw/strona-glowna/pliki-do-pobrania">Microsoft PowerPoint</a></li>
+    <li><a href="https://github.com/skorzewski/amu-beamer">LaTeX Beamer</a></li>
 </ul>
