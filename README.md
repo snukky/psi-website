@@ -17,7 +17,7 @@ Using *git* from command line:
 1. Update the website page:
   1. Edit `_data/*.yml` file if you want to add or update a member, seminar or tool.
   2. Edit `_bibliography/members/*.bib` to update a bibliography.
-  2. Edit `_bibliography/theses.bib` to update the list of thesis.
+  2. Edit `_bibliography/theses.bib` to update the list of theses.
   3. Edit `.md` files to update the content of static pages.
   4. Add PDF file into `_uploads` directory (keep them as small as possible!) or just send them to me via email.
 2. Commit and push your edits into repository.
