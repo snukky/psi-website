@@ -1,9 +1,9 @@
 # Site settings
-title: PSI
-email: romang@amu.edu.pl
+title: ZPJN
+email: pawel.skorzewski@amu.edu.pl
 description:
-  en: Information Systems Laboratory
-  pl: Pracownia Systemów Informacyjnych
+  en: Department of Natural Language Processing
+  pl: Zakład Przetwarzania Języka Naturalnego
 baseurl: ""
 url: "https://psi.wmi.amu.edu.pl"
 version: 0.0.3
@@ -44,7 +44,7 @@ assets:
 languages:
   - en
   - pl
-default_lang: en
+default_lang: pl
 exclude_from_localization:
   - assets
 parallel_localization: true

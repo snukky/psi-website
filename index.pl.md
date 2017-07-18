@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pracownia Systemów Informacyjnych
+title: Zakład Przetwarzania Języka Naturalnego
 permalink: /
 lang: pl
 ---
@@ -24,7 +24,7 @@ Obszary badawcze
 Afiliacja
 -----------
 
-Pracownia Systemów Informacyjnych  
+Zakład Przetwarzania Języka Naturalnego  
 [Wydział Matematyki i Informatyki](https://www.wmi.amu.edu.pl/)  
 [Uniwersytet im. Adama Mickiewicza](http://amu.edu.pl/)  
 ul. Umultowska 87

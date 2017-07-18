@@ -1,7 +1,7 @@
-Information Systems Laboratory
-==============================
+Department of Natural Language Processing
+=========================================
 
-The Jekyll-based website of Information Systems Laboratory.
+The Jekyll-based website of Department of Natural Language Processing.
 
 
 Updating content

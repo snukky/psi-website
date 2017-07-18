@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Information Systems Laboratory
+title: Department of Natural Language Processing
 permalink: /
 lang: en
 ---
@@ -23,8 +23,8 @@ Research areas
 Affiliation
 -----------
 
-Information Systems Laboratory  
+Department of Natural Language Processing  
 [Faculty of Mathematics and Computer Science](https://www.wmi.amu.edu.pl/en/)  
 [Adam Mickiewicz University](http://international.amu.edu.pl/)  
-Umultowska 87 Street
+ul. Umultowska 87
 61-614 Poznań, Poland
