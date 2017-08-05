@@ -218,4 +218,8 @@
 
 - date: 01.08.2017
   author: Mieszko Wrzeszczyński
-  title: Algorytmy wizualizacji danych
+  title: Algorytm wizualizacji danych t-SNE
+
+- date: 08.08.2017
+  author: Michał Głazik
+  title: Rekurencyjne sieci neuronowe typu LSTM
