@@ -223,3 +223,14 @@
 - date: 08.08.2017
   author: Michał Głazik
   title: Rekurencyjne sieci neuronowe typu LSTM
+
+- date: 22.08.2017
+  author: Piotr Radwan
+  title: Sieci neuronowe w ujęciu paradygmatu funkcyjnego
+
+- date: 29.08.2017
+  author: Dawid Jurkiewicz
+  title: Distant Supervision
+  abstract: Podczas wystąpienia zostanie przedstawiony paradygmat Distant Supervision oraz proces ekstrakcji relacji na nim oparty.
+
+
