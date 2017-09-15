@@ -109,6 +109,33 @@
   github: rjawor
   googlescholar: KKySEisAAAAJ
 
+- id: pms
+  name: Paweł Skórzewski
+  title:
+    en: PhD
+    pl: dr
+  description:
+    en: >
+      PhD in computer science and MS in mathematics. His scientific interests
+      cover the fields of computational linguistics, artificial intelligence
+      and natural language processing. He conducted research on parsing of free
+      word order languages with probabilistic grammars and its applications in
+      machine translation systems. His research topics include also finite
+      state machines and dialog management.
+    pl: >
+      Doktor informatyki i magister matematyki. Jego zainteresowania naukowe
+      skupiają się wokół lingwistyki komputerowej, sztucznej inteligencji i
+      przetwarzania języka naturalnego. Prowadził badania nad analizą
+      składniową języków o szyku swobodnym z wykorzystaniem gramatyk
+      probabilistycznych i jej zastosowaniami w systemach tłumaczenia
+      automatycznego. Zajmuje się również automatami skończonymi i systemami
+      dialogowymi.
+  www: skorzewski.github.io
+  email: pms@amu.edu.pl
+  github: skorzewski
+  googlescholar: B3ggAfoAAAAJ
+  researchgate: Pawet_Skorzewski
+
 - id: romang
   name: Roman Grundkiewicz
   title:
@@ -155,33 +182,6 @@
   www:
   email: t.dwojak@amu.edu.pl
   github: tomekd
-
-- id: pms
-  name: Paweł Skórzewski
-  title:
-    en: PhD
-    pl: dr
-  description:
-    en: >
-      PhD in computer science and MS in mathematics. His scientific interests
-      cover the fields of computational linguistics, artificial intelligence
-      and natural language processing. He conducted research on parsing of free
-      word order languages with probabilistic grammars and its applications in
-      machine translation systems. His research topics include also finite
-      state machines and dialog management.
-    pl: >
-      Doktor informatyki i magister matematyki. Jego zainteresowania naukowe
-      skupiają się wokół lingwistyki komputerowej, sztucznej inteligencji i
-      przetwarzania języka naturalnego. Prowadził badania nad analizą
-      składniową języków o szyku swobodnym z wykorzystaniem gramatyk
-      probabilistycznych i jej zastosowaniami w systemach tłumaczenia
-      automatycznego. Zajmuje się również automatami skończonymi i systemami
-      dialogowymi.
-  www: skorzewski.github.io
-  email: pms@amu.edu.pl
-  github: skorzewski
-  googlescholar: B3ggAfoAAAAJ
-  researchgate: Pawet_Skorzewski
 
 - id: wlodarczyk
   name: Wojciech Włodarczyk
