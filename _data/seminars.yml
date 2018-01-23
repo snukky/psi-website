@@ -277,6 +277,10 @@
   author: Tomasz Dwojak
   title: Marian z Poznania, czyli zestaw narzędzi do NMT
 
+- date: 23.01.2018
+  author: Roman Grundkiewicz
+  title: An exploration of neural sequence-to-sequence architectures for automatic post-editing
+
 - date: 06.02.2018
   author: Wojciech Włodarczyk
   title: TBA
