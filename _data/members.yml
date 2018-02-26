@@ -210,3 +210,16 @@
   email: wojciech.wlodarczyk@amu.edu.pl
   github: heolin123
   photo: false
+
+- id: tomasz.zietkiewicz
+  name: Tomasz Ziętkiewicz
+  title:
+    en: PhD candidate
+    pl: mgr inż.
+  description:
+    en: >
+    pl: >
+  www:
+  email: tomasz.zietkiewicz@amu.edu.pl
+  github:
+  photo: false
