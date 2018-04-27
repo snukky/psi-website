@@ -1,11 +1,15 @@
 ---
 layout: page
-title: MSc theses
+title: Theses
 permalink: /theses/
 lang: en
 sidebar: 4
 ---
 
-Master's theses under the supervision of Ph.D. prof. UAM Krzysztof Jassem.
+## PhD Theses
 
-{% bibliography --file theses.bib --query @masterthesis --template bib.thesis %}
+{% bibliography --file theses.bib --query @phdthesis --template bib.thesis %}
+
+## Master's Theses
+
+{% bibliography --file theses.bib --query @mastersthesis --template bib.thesis %}

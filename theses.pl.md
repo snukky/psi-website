@@ -6,6 +6,10 @@ lang: pl
 sidebar: 4
 ---
 
-Prace magisterskie pod kierunkiem prof. UAM dra hab. Krzysztofa Jassema.
+## Prace doktorskie
 
-{% bibliography --file theses.bib --query @masterthesis --template bib.thesis %}
+{% bibliography --file theses.bib --query @phdthesis --template bib.thesis %}
+
+## Prace magisterskie
+
+{% bibliography --file theses.bib --query @mastersthesis --template bib.thesis %}

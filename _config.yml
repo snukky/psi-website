@@ -49,11 +49,12 @@ exclude_from_localization:
   - assets
 parallel_localization: true
 
-# Jekyll-schollar settings
+# Jekyll-scholar settings
 scholar:
   sort_by: author
   order: ascending
   group_by: year
   group_order: descending
+  bibliography_group_tag: h3,h4,h5,h6
   source: ./_bibliography
   bibliography: bibliography.bib
