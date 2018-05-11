@@ -323,8 +323,10 @@
   title: Koncepcja modelu pisanego języka duńskiego polskich studentów
 
 - date: 15.05.2018
-  author: Filip Graliński
-  title: TBA
+  author: Agnieszka Ławrynowicz
+  institute: Instytut Informatyki Politechniki Poznańskiej
+  title: Translacja pytań kompetencyjnych w języku naturalnym do języka zapytań SPARQL-OWL
+  abstract: Ontologie są formalnymi specyfikacjami wiedzy terminologicznej i obecnie są coraz częściej wykorzystywane do integracji, opisu i organizacji danych i wiedzy, w zastosowaniach zarówno badawczych jak i przemysłowych. Jedną z części procesu tworzenia ontologii jest zapewnienie ich jakości, w tym wymaganego pokrycia modelowanego obszaru wiedzy. Wiele z metodyk inżynierii ontologii zawiera etap formułowania pytań kompetencyjnych, na które ontologia bądź też system informacyjny zbudowany w oparciu o nią powinne być w stanie udzielić odpowiedzi, tj. zawierać odpowiednie słownictwo jak i aksjomaty. Pytania kompetencyjne są wyrażone w języku naturalnym. Na kolejnych etapach tworzenia ontologii, pytania są manualnie formalizowane do języka zapytań ontologii i/lub baz wiedzy (najczęściej SPARQL), co jest żmudnym procesem, wymagającym znajomości formalnych języków modelowania. W prezentacji omówię zagadnienia automatycznej bądź też półautomatycznej translacji pytań kompetencyjnych do dialektu języka SPARQL.
 
 - date: 22.05.2018
   author: Paweł Skórzewski
