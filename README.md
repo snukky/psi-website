@@ -15,16 +15,17 @@ Requirements:
 Using *git* from command line:
 
 1. Update the website page:
-  1. Edit `_data/*.yml` file if you want to add or update a member, seminar or tool.
-  2. Edit `_bibliography/members/*.bib` to update a bibliography.
-  2. Edit `_bibliography/theses.bib` to update the list of theses.
-  3. Edit `.md` files to update the content of static pages.
-  4. Add PDF file into `_uploads` directory (keep them as small as possible!) or just send them to me via email.
+   1. Edit `_data/*.yml` file if you want to add or update a member, seminar or tool.
+   2. Edit `_bibliography/members/*.bib` to update a bibliography.
+   3. Edit `_bibliography/theses.bib` to update the list of MSc and PhD theses.
+   4. Edit `_bibliography/bibliography.bib` to update the list of papers.
+   5. Edit `.md` files to update the content of static pages.
+   6. Add PDF file into `_uploads` directory (keep them as small as possible!) or just send them to me via email.
 2. Commit and push your edits into repository.
 3. Send me an email to update the website on the faculty server (as I don't know if you have privileges to do it) – or – if you have access rights to psinf@hosting.wmi.amu.edu.pl:
-  1. ./publish.sh
-  2. ssh psinf@hosting.wmi.amu.edu.pl
-  3. ./update.sh (on server)
+   1. ./publish.sh
+   2. ssh psinf@hosting.wmi.amu.edu.pl
+   3. ./update.sh (on server)
 
 You can do it online as well using http://prose.io
 
