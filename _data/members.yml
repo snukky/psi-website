@@ -12,7 +12,7 @@
   name: Krzysztof Jassem
   title:
     en: PhD, prof. AMU
-    pl: prof. UAM, dr hab.
+    pl: prof. UAM dr hab.
   description:
     en: >
       He conducts research on tools for Natural Language Processing. His other
@@ -52,7 +52,7 @@
       Hildy Stockenius.
   email: filipg@amu.edu.pl
   github: filipg
-  www: http://www.staff.amu.edu.pl/~filipg/
+  www: http://filipg-jenkins.wmi.amu.edu.pl
 
 - id: junczys
   name: Marcin Junczys-Dowmunt
@@ -106,7 +106,7 @@
       Uniwersytetem w Zagrzebiu oraz Instytutem Językoznawstwa UAM i Katedrą
       Orientalistyki UAM.
   email: rjawor@amu.edu.pl
-  www: http://www.staff.amu.edu.pl/~rjawor/
+  www: http://rjawor.home.amu.edu.pl
   github: rjawor
   googlescholar: KKySEisAAAAJ
 
@@ -122,15 +122,15 @@
       and natural language processing. He conducted research on parsing of free
       word order languages with probabilistic grammars and its applications in
       machine translation systems. His research topics include also finite
-      state machines and dialog management.
+      state machines, dialog management and sentiment analysis.
     pl: >
       Doktor informatyki i magister matematyki. Jego zainteresowania naukowe
       skupiają się wokół lingwistyki komputerowej, sztucznej inteligencji i
       przetwarzania języka naturalnego. Prowadził badania nad analizą
       składniową języków o szyku swobodnym z wykorzystaniem gramatyk
       probabilistycznych i jej zastosowaniami w systemach tłumaczenia
-      automatycznego. Zajmuje się również automatami skończonymi i systemami
-      dialogowymi.
+      automatycznego. Zajmuje się również automatami skończonymi, systemami
+      dialogowymi i analizą wydźwięku.
   www: http://skorzewski.github.io
   email: pms@amu.edu.pl
   github: skorzewski
@@ -140,8 +140,8 @@
 - id: romang
   name: Roman Grundkiewicz
   title:
-    en: PhD candidate
-    pl: mgr
+    en: PhD
+    pl: dr
   description:
     en: >
       He is interested mainly in natural language processing and text mining.
@@ -158,7 +158,7 @@
       błędów językowych dla języka polskiego.W badaniach wykorzystuje szeroki
       wahlarz metod uczenia maszynowego.
   email: romang@amu.edu.pl
-  www: http://www.staff.amu.edu.pl/~romang/
+  www:
   googlescholar: 82Uy1aAAAAAJ
   researchgate: Roman_Grundkiewicz
 
@@ -221,5 +221,31 @@
     pl: >
   www:
   email: tomasz.zietkiewicz@amu.edu.pl
+  github:
+  photo: false
+
+- id: dawid.jurkiewicz
+  name: Dawid Jurkiewicz
+  title:
+    en: PhD candidate
+    pl: mgr inż.
+  description:
+    en: >
+    pl: >
+  www:
+  email:
+  github:
+  photo: false
+
+- id: karol.kaczmarek
+  name: Karol Kaczmarek
+  title:
+    en: PhD candidate
+    pl: mgr inż.
+  description:
+    en: >
+    pl: >
+  www:
+  email:
   github:
   photo: false
