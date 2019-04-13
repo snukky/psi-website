@@ -474,7 +474,7 @@
 
 - date: 09.04.2019
   author: Tomasz Ziętkiewicz
-  title: TBA
+  title: "Open Challenge for Correcting Errors of Speech Recognition Systems. Recent Advances in Error Correction of ASR"
 
 - date: 16.04.2019
   author: Rafał Jaworski
@@ -487,3 +487,7 @@
 - date: 07.05.2019
   author: Krzysztof Jurkiewicz
   title: TBA
+
+- date: 14.05.2019
+  author: Jakub Pokrywka
+  title: "Redukcja wymiarowości – PCA, t-SNE, UMAP"
