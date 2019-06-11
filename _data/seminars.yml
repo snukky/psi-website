@@ -482,7 +482,7 @@
 
 - date: 07.05.2019
   author: Krzysztof Jurkiewicz
-  title: TBA
+  title: "Paper review: <a href=\"https://arxiv.org/pdf/1502.03167.pdf\">Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a>, <a href=\"https://papers.nips.cc/paper/6790-batch-renormalization-towards-reducing-minibatch-dependence-in-batch-normalized-models.pdf\">Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models</a>"
 
 - date: 14.05.2019
   author: Jakub Pokrywka
