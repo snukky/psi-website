@@ -20,7 +20,7 @@ GEM
       forwardable-extended (~> 2.5)
     fastimage (2.0.0)
       addressable (~> 2)
-    ffi (1.9.10)
+    ffi (1.13.1)
     font-awesome-sass (4.6.2)
       sass (>= 3.2)
     forwardable-extended (2.6.0)
